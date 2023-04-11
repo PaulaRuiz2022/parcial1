@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Social Media</string>
+    <string name="login">Token Friends</string>
+    <string name="hint_usuario">Usuario</string>
+    <string name="hint_contrasena">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="mensaje">Bienvenido a Token Friends</string>
+    <string name="name">Nombre</string>
+    <string name="city">Ciudad</string>
+    <string name="age">Edad</string>
+    <string name="btnagregar">Agregar</string>
 </resources>
